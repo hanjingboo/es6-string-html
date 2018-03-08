@@ -1,9 +1,9 @@
 {
-  "name": "es6-string-html",
-  "displayName": "es6-string-html",
+  "name": "vscode-es6-string-html",
+  "displayName": "ES6 String HTML",
   "description": "Highlight html in es6 multiline strings",
-  "version": "1.0.0",
-  "publisher": "Tobermory",
+  "version": "1.1.1",
+  "publisher": "hjb2012",
   "icon": "docs/logo.png",
   "engines": {
     "vscode": "^1.19.0"
@@ -13,10 +13,10 @@
     "theme": "light"
   },
   "repository": {
-    "url": "https://github.com/mydesireiscoma/es6-string-html"
+    "url": "https://github.com/hanjingboo/es6-string-html"
   },
   "bugs": {
-    "url": "https://github.com/mydesireiscoma/es6-string-html/issues"
+    "url": "https://github.com/hanjingboo/es6-string-html/issues"
   },
   "categories": ["Languages"],
   "keywords": ["javascript", "es6", "es6-string-html", "html", "template"],
